@@ -1,0 +1,21 @@
+/* Set Up Fonts */
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto/Roboto-Regular.ttf);
+}
+
+/* Apply Font */
+body {
+    font-family: Roboto, Arial, Verdana, sans-serif;
+    padding: 1rem;
+}
+
+/* Heading H1 */
+h1 {
+    text-align: center;
+}
+
+/* Styling for Stars */
+.checked {
+    color: #f8d974;
+}
