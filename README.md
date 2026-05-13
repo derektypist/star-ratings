@@ -14,6 +14,10 @@ Allows the user to see how many stars with the subject, user, date and comment (
 
 Uses HTML5, CSS3 and Font Awesome 7.0.1.
 
+## Testing
+
+To preview, use the command `python3 -m http.server` in the terminal.  Check that the page comes out as expected.
+
 ## Deployment
 
 On [GitHub Pages](https://derektypist.github.io/star-ratings) at the main branch.
